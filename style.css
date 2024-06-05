@@ -1,0 +1,30 @@
+@font-face {
+    font-family: Daydream;
+    src: url(Daydream.ttf);
+}
+
+.center {
+    font-family: Daydream;
+    text-align: center;
+    margin: auto;
+    width: 40%;
+    border: 10px;
+    border-style: outset;
+    background-color: beige;
+    text-rendering: geometricPrecision;
+  }
+
+  .content {
+      text-align: left;
+      margin-left: 15%;
+      margin-right: 15%;
+      border-style: inset;
+      padding: 2%;
+      background-color:burlywood;
+  }
+
+  a {
+    text-decoration: none;
+    color: purple;
+  }
+
